@@ -1,0 +1,25 @@
+# Test
+markdown이 익숙해 지기 위한 연습
+practice to get used to markdown
+
+## 적응유전좌위로서의 MHC 유전자
+MHC 유전자란?
+::Major histocompatibility complex는 척추동물의 적응면역 시스템 상에서 T세포에 항원을 제시하는 역할을 하는 항원제시세포에 달려 있는 단백질을 말한다. MHC 단백질에 존재하는 홈에 병원체에서 유래한 펩티드 조각이 결합되고 이것이 T세포의 수용체에 결합하여 면역반응이 개시된다.::
+
+MHC 유전자의 다형성
+블라블라
+
+## Balancing election
+* parasite-mediated selection
+1. sexual selection
+2. 
+> negative frequency dependent selection  
+> 역빈도의존적선택은   
+- - - -
+
+_Rhodeus ocellatus_
+
+![](Test/Screen%20Shot%202018-06-25%20at%204.10.04%20PM.png)
+
+
+
