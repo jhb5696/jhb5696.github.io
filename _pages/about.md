@@ -1,11 +1,10 @@
 ---
-layout: single
+layout: wide
 permalink: /about/
 toc: true
 header:
   image: /assets/images/iam.jpg
   description: "sampling trip"
-author_profile: true
 ---
 
 # Hyung-Bae Jeon PhD
