@@ -5,10 +5,10 @@ main:
   - title: "Research"
     url: /research/  
   - title: "Collaborator"
-    url: /colla
+    url: /collabo/
   - title: "Publication"
-    url: /collection-archive/
+    url: /publication/
   - title: "Gallery"
     url: /gallery/
   - title: "fishes of Korea"
-    url: /gallery/
+    url: /fishes/
