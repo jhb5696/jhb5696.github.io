@@ -2,9 +2,10 @@
 layout: splash
 permalink: /about/
 toc: true
+excerpt: "About myself"
 header:
-  image: /assets/images/iam.jpg
-  description: "sampling trip"
+  overlay_image: /assets/images/iam.jpg
+  caption: "Photo credit: Hyung-Bae Jeon"
 ---
 
 # Hyung-Bae Jeon PhD
