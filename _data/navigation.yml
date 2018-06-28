@@ -10,5 +10,7 @@ main:
     url: /publication/
   - title: "Gallery"
     url: /gallery/
-  - title: "fishes of Korea"
+  - title: "Life"
+    url: /_posts/
+  - title: "Fishes"
     url: /fishes/
