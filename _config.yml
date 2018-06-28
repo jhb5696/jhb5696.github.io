@@ -23,7 +23,7 @@ description              : "everything is evolving"
 url                      : "http://jhb5696.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jhb5696@jhb5696.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "assets/images/iam.jpg"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         : "rhodeus"
   foursquare       :
-  github           :
+  github           : "jhb5696"
   gitlab           :
   google_plus      :
   keybase          :
@@ -133,7 +133,7 @@ author:
 
 
 # Reading Files
-include: ["_pages"]
+include:
   - .htaccess
   - _pages
 exclude:
@@ -261,7 +261,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
@@ -269,3 +269,5 @@ defaults:
       comments: # true
       share: true
       related: true
+
+include: ["_pages"]
