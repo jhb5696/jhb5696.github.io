@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: splash
 permalink: /about/
 toc: true
 header:
