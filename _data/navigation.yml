@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Research"
-    url: /sitemap/  
+    url: /research/  
   - title: "Collaborator"
     url: /colla
   - title: "Publication"

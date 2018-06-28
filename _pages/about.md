@@ -34,15 +34,15 @@ author_profile: true
 * **Best Poster Presentation Award** *The 68th Annual Meeting of the Korean Association of Biological Sciences* 2013
 
 ## Teaching
-* #### **General Biology**, 3 credits *Yeungnam University* 2nd semester 2016
-* #### **Experiment of Biology**, 1 credits *Yeungnam University* 2nd semester 2016
-* #### **General Biology**, 3 credits *Yeungnam University* 1st semester, 2016
-* #### **General Biology**, 3 credits *Yeungnam University* 2nd semester, 2015
-* #### **Teaching Assistant (General Biology)** *Yeungnam University* 2nd semester, 2015
-* #### **Teaching Assistant (General Biology)** *Yeungnam University* 1st semester, 2015
-* #### **Teaching Assistant (General Biology)** *Yeungnam University* 1st semester, 2014
-* #### **Teaching Assistant (General Biology)** *Yeungnam University* 2nd semester, 2013
-* #### **Teaching Assistant (General Biology)** *Yeungnam University* 1st semester, 2013
+* **General Biology**, 3 credits *Yeungnam University* 2nd semester 2016
+* **Experiment of Biology**, 1 credits *Yeungnam University* 2nd semester 2016
+* **General Biology**, 3 credits *Yeungnam University* 1st semester, 2016
+* **General Biology**, 3 credits *Yeungnam University* 2nd semester, 2015
+* **Teaching Assistant (General Biology)** *Yeungnam University* 2nd semester, 2015
+* **Teaching Assistant (General Biology)** *Yeungnam University* 1st semester, 2015
+* **Teaching Assistant (General Biology)** *Yeungnam University* 1st semester, 2014
+* **Teaching Assistant (General Biology)** *Yeungnam University* 2nd semester, 2013
+* **Teaching Assistant (General Biology)** *Yeungnam University* 1st semester, 2013
 
 ## Skills
 * **Experimental Skills**
