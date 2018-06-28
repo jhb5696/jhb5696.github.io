@@ -16,12 +16,12 @@ author_profile: true
 *Evolutionary Dynamics (Historical & Contemporary)*
 
 ## Education
-* **PhD** Evolutionary Biology *Yeungnam University* South Korea 2013 - 2018
-Thesis : *Evolutionary History of Acheilognathid Fish Inferred based on Genetic and Genomic Analyses*
-Advisor : Prof. Ho Young Suk
-* **MSc** Phylogeography *Yeungnam University* South Korea 2011 - 2013
-Thesis: *Phylogeographical Issues of Teleosts in Korea: Adpative Radiation and Peripheral Speciation*
-Advisor: Prof. Ho Young Suk
+* **PhD** Evolutionary Biology *Yeungnam University* South Korea 2013 - 2018  
+### Thesis : *Evolutionary History of Acheilognathid Fish Inferred based on Genetic and Genomic Analyses*  
+### Advisor : Prof. Ho Young Suk
+* **MSc** Phylogeography *Yeungnam University* South Korea 2011 - 2013  
+### Thesis: *Phylogeographical Issues of Teleosts in Korea: Adpative Radiation and Peripheral Speciation*  
+### Advisor: Prof. Ho Young Suk
 * **BSc** Marine Biology *Kunsan National University* South Korea 2004 - 2008
 
 ## Professional Experience
@@ -34,15 +34,15 @@ Advisor: Prof. Ho Young Suk
 * **Best Poster Presentation Award** *The 68th Annual Meeting of the Korean Association of Biological Sciences* 2013
 
 ## Teaching
-* **General Biology**, 3 credits *Yeungnam University* 2nd semester 2016
-* **Experiment of Biology**, 1 credits *Yeungnam University* 2nd semester 2016
-* **General Biology**, 3 credits *Yeungnam University* 1st semester, 2016
-* **General Biology**, 3 credits *Yeungnam University* 2nd semester, 2015
-* **Teaching Assistant (General Biology)** *Yeungnam University* 2nd semester, 2015
-* **Teaching Assistant (General Biology)** *Yeungnam University* 1st semester, 2015
-* **Teaching Assistant (General Biology)** *Yeungnam University* 1st semester, 2014
-* **Teaching Assistant (General Biology)** *Yeungnam University* 2nd semester, 2013
-* **Teaching Assistant (General Biology)** *Yeungnam University* 1st semester, 2013
+* #### **General Biology**, 3 credits *Yeungnam University* 2nd semester 2016
+* #### **Experiment of Biology**, 1 credits *Yeungnam University* 2nd semester 2016
+* #### **General Biology**, 3 credits *Yeungnam University* 1st semester, 2016
+* #### **General Biology**, 3 credits *Yeungnam University* 2nd semester, 2015
+* #### **Teaching Assistant (General Biology)** *Yeungnam University* 2nd semester, 2015
+* #### **Teaching Assistant (General Biology)** *Yeungnam University* 1st semester, 2015
+* #### **Teaching Assistant (General Biology)** *Yeungnam University* 1st semester, 2014
+* #### **Teaching Assistant (General Biology)** *Yeungnam University* 2nd semester, 2013
+* #### **Teaching Assistant (General Biology)** *Yeungnam University* 1st semester, 2013
 
 ## Skills
 * **Experimental Skills**
