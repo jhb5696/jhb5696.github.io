@@ -1,13 +1,10 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+title: About
+layout: single
 permalink: /about/
+header:
+  teaser: /assets/images/iam.jpg
+author_profile: true
 ---
 
 # Hyung-Bae Jeon PhD
