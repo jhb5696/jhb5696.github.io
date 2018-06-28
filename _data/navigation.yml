@@ -11,6 +11,6 @@ main:
   - title: "Gallery"
     url: /gallery/
   - title: "Life"
-    url: /_posts/
+    url: /life/
   - title: "Fishes"
     url: /fishes/
