@@ -2,9 +2,9 @@
 layout: splash
 permalink: /about/
 toc: true
+excerpt: CV
 header:
   overlay_color: "#333"
-  show_overlay_excerpt: FALSE
 ---
 
 ## Current Position
