@@ -4,6 +4,7 @@ permalink: /about/
 toc: true
 header:
   overlay_color: "#333"
+  show_overlay_excerpt: FALSE
 ---
 
 # Hyung-Bae Jeon PhD
