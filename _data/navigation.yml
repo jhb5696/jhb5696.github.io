@@ -4,10 +4,6 @@ main:
     url: /about/
   - title: "Research"
     url: /research/  
-  - title: "Collaborator"
-    url: /collabo/
-  - title: "Publication"
-    url: /publication/
   - title: "Gallery"
     url: /gallery/
   - title: "Life"

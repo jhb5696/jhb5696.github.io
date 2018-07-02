@@ -3,7 +3,7 @@ layout: splash
 permalink: /about/
 toc: true
 header:
-  image: /assets/images/iam.jpg
+  overlay_color: "#333"
 ---
 
 # Hyung-Bae Jeon PhD
