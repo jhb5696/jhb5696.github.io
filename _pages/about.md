@@ -7,7 +7,6 @@ header:
   show_overlay_excerpt: FALSE
 ---
 
-# Hyung-Bae Jeon PhD
 ## Current Position
 **Horizon Postdoctoral Fellowship** *Concordia University* Sep. 2018 - Sep. 2020
 
