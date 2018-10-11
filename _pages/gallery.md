@@ -4,7 +4,7 @@ classes: wide
 permalink: /gallery/
 gallery:
   - url: /assets/images/rsn.jpg
-    image_path: /assets/images/rsn.JPG
+    image_path: /assets/images/rsn.jpg
     alt: "placeholder image 1"
     title: "Rhodeus sinensis"
   - url: /assets/images/mr.jpg
@@ -28,7 +28,7 @@ gallery:
     alt: "placeholder image 6"
     title: "Aphyocypris chinensis"
   - url: /assets/images/rp.jpg
-    image_path: /assets/images/rp.JPG
+    image_path: /assets/images/rp.jpg
     alt: "placeholder image 7"
     title: "Rhodeus pseudosericeus"
   - url: /assets/images/tls.jpg
