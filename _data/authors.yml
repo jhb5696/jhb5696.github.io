@@ -2,8 +2,10 @@
 
 Hyung-Bae Jeon:
   name: "Hyung-Bae Jeon"
-  uri: "http://jhb5696.github.io"
+  avatar: "/assets/images/me.jpg"
+  bio: "Evolutionary Ecologist / EcoLoger / "
+  link:
+    - label: "Website"
+    - uri: "http://jhb5696.github.io"
   email: "jhb5696@gmail.com"
-  bio: "Evolutionary Ecologist"
-  avatar: "/assets/images/iam.jpg"
   twitter: "Hyungbae_Jeon"
