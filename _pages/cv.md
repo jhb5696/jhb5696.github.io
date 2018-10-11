@@ -1,7 +1,6 @@
 ---
 layout: splash
 classes: wide
-toc: true
 permalink: /cv/
 ---
 

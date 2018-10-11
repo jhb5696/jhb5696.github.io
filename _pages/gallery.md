@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: splash
+classes: wide
 permalink: /gallery/
 gallery:
   - url: /assets/images/rsn.jpg
