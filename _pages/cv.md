@@ -1,5 +1,7 @@
 ---
-layout: single
+layout: splash
+classes: wide
+toc: true
 title: Curriculum Vitae
 permalink: /cv/
 ---
