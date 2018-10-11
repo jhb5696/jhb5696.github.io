@@ -39,4 +39,4 @@ gallery:
     alt: "placeholder image 9"
     title: "Periophthalmus modestus"
 ---
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="Freshwater fishes of Korea" %}
