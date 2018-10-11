@@ -1,10 +1,11 @@
 ---
-layout: single
+layout: splash
 classes: wide
 toc: true
-title: Curriculum Vitae
 permalink: /cv/
 ---
+
+# Curriculum Vitae
 
 ## Current Position
 **Horizon Postdoctoral Fellowship** *Concordia University* Sep. 2018 - Sep. 2020
