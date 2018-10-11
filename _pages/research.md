@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 permalink: /research/
 toc: true
 header:
