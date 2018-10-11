@@ -1,8 +1,5 @@
 ---
-layout: splash
-permalink: /gallery/
-toc: true
-  gallery:
+gallery:
   - url: /assets/images/rsn.jpg
     image_path: /assets/images/rsn.jpg
     alt: "placeholder image 1"
@@ -39,4 +36,7 @@ toc: true
     image_path: /assets/images/pm.jpg
     alt: "placeholder image 9"
     title: "Periophthalmus modestus"
+layout: splash
+permalink: /gallery/
 ---
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
