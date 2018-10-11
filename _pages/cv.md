@@ -1,7 +1,6 @@
 ---
 layout: single
 permalink: /cv/
-toc: true
 ---
 
 ## Current Position
