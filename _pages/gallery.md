@@ -40,4 +40,5 @@ gallery:
     alt: "placeholder image 9"
     title: "Periophthalmus modestus"
 ---
+# Photo Gallery
 {% include gallery caption="Freshwater fishes of Korea" %}
