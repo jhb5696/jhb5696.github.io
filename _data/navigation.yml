@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "CV"
-    url: /cv/
+  - title: "Who am I"
+    url: /whoami/
   - title: "Research"
     url: /research/  
   - title: "Gallery"
