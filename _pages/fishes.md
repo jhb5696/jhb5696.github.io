@@ -4,17 +4,19 @@ permalink: /fishes/
 toc: true
 ---
 
-__Checklist of Fresh and Brackish Water Fishes of Korea__
+# Checklist of Fresh and Brackish Water Fishes of Korea
 
-######__Hyung-Bae Jeon, Jeongin Kim, Dae Min Kim__
+__Hyung-Bae Jeon, Jeongin Kim, Dae Min Kim__
 
 1. Introduction
+
 This webpage will provide both a relaible checklist of fresh & brackish water fishes from Korea and a photo archive of them. The photos is free to use unless non-commercially use. In this website you will find a most reliable list of freshwater fishes in Korea, and it will reduce a confusion from inconsistent literature. both the list and photos is carefully confirmed by professional ichthyologist who familliar with fishes from Korea.
 
 2. Donation
+
 If you’d like to give back please make a donation to the Asari (The Korean Freshwater Fish Specialist Group) which supports both research and acts for critically endangered fish in Korea.
 
-2. references
+2. References
 
 * Fishes of the world
 
