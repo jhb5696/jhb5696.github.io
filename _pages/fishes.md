@@ -43,199 +43,203 @@ header:
 
 * 뱀장어 _Anguilla japonica_ Temminck & Schlegel, 1846
 
-* 무태장어 Anguilla marmorata Quoy & Gaimard, 1824
+* 무태장어 _Anguilla marmorata_ Quoy & Gaimard, 1824
 
 ### 갯장어과 Muraenesocidae
 
-* 갯장어 Muraenesox cine reus Forsskål, 1775
+* 갯장어 _Muraenesox cinereus_ Forsskål, 1775
 
-* 갈창갯장어 Muraenesox bagio Hamilt on, 1822
+* 갈창갯장어 _Muraenesox bagio_ Hamilton, 1822
 
-## 청어목 Clupeiformes 
+## 청어목 Clupeiformes
 
 ### 멸치과 Engraulidae 
 
-* 웅어 Coilia nasus Temminck & Schlegel, 1846
+* 웅어 _Coilia nasus_ Temminck & Schlegel, 1846
 
-* 싱어 Coilia mystus Linnaeus , 1758*3.	 
+* 싱어 _Coilia mystus_ Linnaeus , 1758*3.	 
 
 ### 청어과 Clupeidae
 
-* 밴댕이 Sardi nella zunasi Bleeker, 1854
+* 밴댕이 _Sardinella zunasi_ Bleeker, 1854
 
-* 전어 Konosirus punctatus Temminck & Schlegel, 1846
+* 전어 _Konosirus punctatus_ Temminck & Schlegel, 1846
 
-* 선전어 Clupa nodon thrissa Linnaeus, 1758
+* 선전어 _Clupanodon thrissa_ Linnaeus, 1758
 
 ## 압치목 Gonorynchiformes
 
 ### 갯농어과 Chanidae
 
-* 갯농어 Chanos chanos Forsskål, 1775
+* 갯농어 _Chanos chanos_ Forsskål, 1775
 
 ## 잉어목 Cypriniformes
 
 ### 잉어과 Cyprinidae
 
-* 잉어 Cyprinus carpio Linnaeus, 1758
+* 잉어 _Cyprinus carpio_ Linnaeus, 1758
 
-* 붕어 Carassius auratus Linnaeus, 1758
+* 붕어 _Carassius auratus_ Linnaeus, 1758
 
 ### 납자루과 Acheilognathidae
 
-* 납줄개 Rhodeus sericeus Pallas, 1776
+* 줄납자루 _Acheilognathus yamatsutae_ Mori, 1928
 
-* 흰줄납줄개 Rhodeus ocellatus Kner, 1866
+* 큰줄납자루 _Acheilognathus majusculus_ Kim & Yang, 1998
 
-* 한강납줄개 Rhodeus pseudosericeus Arai, Jeon & Ueda, 2002
+* 납지리 _Acheilognathus rhombeus_ Temminck & Schlegel, 1846
 
-* 각시붕어 Rhodeus sinensis Günther, 1868
+* 큰납지리  _Acheilognathus macropterus_ Bleeker, 1871
 
-* 떡납줄갱이 Rhodeus notatus Nichols, 1929
+* 가시납지리 _Acheilognathus chankaensis_ Dybowski, 1872
 
-* 서호납줄갱이 Rhodeus hondae Jordan & Metz, 1913
+* 납자루 _Tanakia lanceolata_ Temminck & Schlegel, 1846
 
-* 납자루 Tanakia lanceolata Temminck & Schlegel, 1846
+* 묵납자루 _Tanakia signifer_ Berg, 1907
 
-* 묵납자루 Tanakia signifer Berg, 1907
+* 칼납자루 _Tanakia koreensis_ Kim & Kim, 1990
 
-* 칼납자루 Tanakia koreensis Kim & Kim, 1990
+* 임실납자루 _Tanakia somjinensis_ Kim & Kim, 1991
 
-* 임실납자루 Tanakia somjinensis Kim & Kim, 1991
+* 낙동납자루 _Tanakia latimarginata_ Kim, Jeon & Suk, 2014
 
-* 낙동납자루 Tanak ialatimarginata Kim, Jeon & Suk, 2014
+* 납줄개 _Rhodeus sericeus_ Pallas, 1776
 
-* 납지리 Acheilognathus rhombeus Temminck & Schlegel, 1846
+* 흰줄납줄개 _Rhodeus ocellatus_ Kner, 1866
 
-* 큰납지리  Acheilognathus macropterus Bleeker, 1871
+* 한강납줄개 _Rhodeus pseudosericeus_ Arai, Jeon & Ueda, 2002
 
-* 가시납지리  Acheilognathus chankaensis Dybowski, 1872
+* 각시붕어 _Rhodeus sinensis_ Günther, 1868
+
+* 떡납줄갱이 _Rhodeus notatus_ Nichols, 1929
+
+* 서호납줄갱이 _Rhodeus(?) hondae_ Jordan & Metz, 1913
 
 ### 모래무지과
 
-* 참붕어 Pseudorasbora parva Temminck & Schlegel, 1846
+* 참붕어 _Pseudorasbora parva_ Temminck & Schlegel, 1846
 
-* 돌고기 Pungtungia herzi Herzenstein, 1892 
+* 돌고기 _Pungtungia herzi_ Herzenstein, 1892 
 
-* 감돌고기 Pseudopungtungia nigra Mori, 1935
+* 감돌고기 _Pseudopungtungia nigra_ Mori, 1935
 
-* 가는돌고기 Pseudopungtungia tenuicorpus Jeon & Choi, 1980 
+* 가는돌고기 _Pseudopungtungia tenuicorpus_ Jeon & Choi, 1980 
 
-* 쉬리 Coreoleuciscus splendidus Mori, 1935
+* 쉬리 _Coreoleuciscus splendidus_ Mori, 1935
 
-* 참쉬리 Coreoleuciscus aeruginos Song & Bang, 2015 23.	 
+* 참쉬리 _Coreoleuciscus aeruginos_ Song & Bang, 2015
 
-* 새미 Ladislavia taczanowskii Dybowski, 1869
+* 새미 _Ladislavia taczanowskii_ Dybowski, 1869
 
-* 참중고기 Sarcocheilichthys variegatus wakiyae Mori, 1927
+* 참중고기 _Sarcocheilichthys variegatus wakiyae_ Mori, 1927
 
-* 중고기 Sarcoc heilichthys nigripinnis morii Jordan & Hubbs, 192 5
+* 중고기 _Sarcocheilichthys nigripinnis morii_ Jordan & Hubbs, 192 5
 
-* 북방중고기 Sarcocheilichthys czerskii Berg, 1914
+* 북방중고기 _Sarcocheilichthys czerskii_ Berg, 1914
 
-* 술중고기 Sarcocheilichthys soldatovi Berg, 1914 
+* 술중고기 _Sarcocheilichthys soldatovi_ Berg, 1914 
 
-* 알중고기 Sarcocheilichthys lacustris Dybowski, 1872
+* 알중고기 _Sarcocheilichthys lacustris_ Dybowski, 1872
 
-* 줄몰개 Gnathopogon strigatus Regan, 1908
+* 줄몰개 _Gnathopogon strigatus_ Regan, 1908
 
-* 긴몰개 Squalidus gracilis majimae Jordan & Hubbs,1925
+* 긴몰개 _Squalidus gracilis majimae_ Jordan & Hubbs,1925
 
-* 몰개 Squalidus japonicus coreanus Berg, 1906
+* 몰개 _Squalidus japonicus coreanus_ Berg, 1906
 
-* 참몰개 Squalidus chankaensis tsuchigae Jordan & Hubbs, 1 925
+* 참몰개 _Squalidus chankaensis tsuchigae_ Jordan & Hubbs, 1 925
 
-* 점몰개 Squalidus multimaculatus Hoso ya & Jeon, 1984
+* 점몰개 _Squalidus multimaculatus_ Hosoya & Jeon, 1984
 
-* 모샘치 Gobio cynocephalus Dybowski, 1869
+* 모샘치 _Gobio cynocephalus_ Dybowski, 1869
 
-* 두만강모샘치 Gobio macrocephalus Mori, 1930
+* 두만강모샘치 _Gobio macrocephalus_ Mori, 1930
 
-* 케톱치 Coreius heterodon Bleeker, 1864
+* 케톱치 _Coreius heterodon_ Bleeker, 1864
 
-* 누치 Hemibarbus labeo Pallas, 1776
+* 누치 _Hemibarbus labeo_ Pallas, 1776
 
-* 참마자 Hemibarbus longirostris Regan, 1908
+* 참마자 _Hemibarbus longirostris_ Regan, 1908
 
-* 어름치 Hemibarbus mylodon Berg, 1907
+* 어름치 _Hemibarbus mylodon_ Berg, 1907
 
-* 알락누치 Hemibarbus maculatus Bleeker, 1871
+* 알락누치 _Hemibarbus maculatus_ Bleeker, 1871
 
-* 모래무지 Pseudogobio esocinus Tem minck & Schlegel, 1846
+* 모래무지 _Pseudogobio esocinus_ Temminck & Schlegel, 1846
 
-* 긴모래무지 Pseudogobio longirostris Mori, 1934
+* 긴모래무지 _Pseudogobio longirostris_ Mori, 1934
 
-* 버들매치 Abbottina rivularis Basilewsky, 1855 
+* 버들매치 _Abbottina rivularis_ Basilewsky, 1855 
 
-* 왜매치 Biwia springeri Banaresu & Nalbant, 1973
+* 왜매치 _Biwia springeri_ Banaresu & Nalbant, 1973
 
-* 꾸구리 Gobiobotia macrocepahla Mori, 1935
+* 꾸구리 _Gobiobotia macrocepahla_ Mori, 1935
 
-* 돌상어 Gobiobotia brevibarba Mori, 1935
+* 돌상어 _Gobiobotia brevibarba_ Mori, 1935
 
-* 흰수마자 Gobiobotia naktongensis Mori, 1935
+* 흰수마자 _Gobiobotia naktongensis_ Mori, 1935
 
-* 압록자그사니 Mesogobio lachneri Banarescu & Nalbant, 1973
+* 압록자그사니 _Mesogobio lachneri_ Banarescu & Nalbant, 1973
 
-* 두만강자그사니 Mesogobio tumenensis Chang, 1980
+* 두만강자그사니 _Mesogobio tumenensis_ Chang, 1980
 
-* 모래주사 Microphysogobio koreensis Mori, 1935
+* 모래주사 _Microphysogobio koreensis_ Mori, 1935
 
-* 돌마자 Microphysogobio yaluensis Mori, 1928
+* 돌마자 _Microphysogobio yaluensis_ Mori, 1928
 
-* 여울마자 Microphysogobio rapidus Chae & Yang, 1999
+* 여울마자 _Microphysogobio rapidus_ Chae & Yang, 1999
 
-* 됭경모치 Microphysogobio jeoni Kim & Yang, 1999
+* 됭경모치 _Microphysogobio jeoni_ Kim & Yang, 1999
 
-* 배가사리 Microphysogobio longidorsalis Mori, 1935
+* 배가사리 _Microphysogobio longidorsalis_ Mori, 1935
 
-* 두우쟁이 Saurogobio dabryi Bleeker, 1871
+* 두우쟁이 _Saurogobio dabryi_ Bleeker, 1871
 
 ### 황어과
 
-* 야레 Leuciscus waleckii Dybowski, 1869
+* 야레 _Leuciscus waleckii_ Dybowski, 1869
 
-* 두만강야레 Leuciscus waleckii tumensis Mori, 1930
+* 두만강야레 _Leuciscus waleckii tumensis_ Mori, 1930
 
-* 황어 Tribolodon hakonensis Günther, 1880
+* 황어 _Tribolodon hakonensis_ Günther, 1880
 
-* 대황어 Tribolodon brandtii Dybowski, 1872
+* 대황어 _Tribolodon brandtii_ Dybowski, 1872
 
-* 연준모치 Phoxinus phoxinus Linnaeus, 1758
+* 연준모치 _Phoxinus phoxinus_ Linnaeus, 1758
 
-* 두만강연준모치 Phoxinus tumensis Luo, 1996
+* 두만강연준모치 _Phoxinus tumensis_ Luo, 1996
 
-* 버들치 Rhynchocypris oxycephalus Sauvage & Dabry de Thiersant, 1874
+* 버들치 _Rhynchocypris oxycephalus_ Sauvage & Dabry de Thiersant, 1874
 
-* 버들개 Rhynchocypris oxyrhynchus Mori, 1930
+* 버들개 _Rhynchocypris oxyrhynchus_ Mori, 1930
 
-* 버들피리 Rhynchocypris lagowskii Dybowski, 1869
+* 버들피리 _Rhynchocypris lagowskii_ Dybowski, 1869
 
-* 동버들개 Rhynchocypris mantschuricus Berg, 1907
+* 동버들개 _Rhynchocypris mantschuricus_ Berg, 1907
 
-* 금강모치 Rhynch ocypris keumkang Chyung, 1977
+* 금강모치 _Rhynchocypris keumkang_ Chyung, 1977
 
-* 버들가지 Rhynchocypris semotilus Jordan &  Starks, 1905
+* 덕유모치 _Rhynchocypris deogyuensis_ Lee & Sim, 2017
 
-* 북방버들치 Rhynchocypris czekanowskii Dybowski, 1869
+* 버들가지 _Rhynchocypris semotilus_ Jordan &  Starks, 1905
 
-* 덕유모치 Rhynchocypris deogyuensis Lee & Sim, 2017
+* 북방버들치 _Rhynchocypris czekanowskii_ Dybowski, 1869
 
 ### 피라미과
 
-* 왜몰개 Aphyocypris chinensis Gunther, 1868
+* 왜몰개 _Aphyocypris chinensis_ Gunther, 1868
 
-* 갈겨니 Candidia temminckii Temminck & Schlegel, 1846
+* 갈겨니 _Candidia temminckii_ Temminck & Schlegel, 1846
 
-* 참갈겨니 Candidia koreanus Kim, Oh & Hosoya, 2005
+* 참갈겨니 _Candidia koreanus_ Kim, Oh & Hosoya, 2005
 
-* 피라미 Opsariichthys platypus Temminck & Schlegel, 1846
+* 피라미 _Opsariichthys platypus_ Temminck & Schlegel, 1846
 
-* 끄리 Opsariichthys uncirostris amurensis Berg, 1940
+* 끄리 _Opsariichthys uncirostris amurensis_ Berg, 1940
 
 ### 강준치과
 
-* 눈불개 Squaliobarbus curriculus Richardson, 1846
+* 눈불개 _Squaliobarbus curriculus_ Richardson, 1846
 
 * 강준치 Chanodichthys erythropterus Basilewsky, 1855
 
