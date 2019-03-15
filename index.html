@@ -6,8 +6,8 @@ header:
   caption: "Photo credit: [**Hyung-Bae Jeon**](https://jhb5696.github.io)"
   excerpt: "I am a postdoctoral researcher at the Fraser's lab"
 intro: 
-  - excerpt: 'It is not the strongest of the species that survives, not the most intelligent that survives. It is the one that is the most adaptable to change - _Charles Darwin_. Centered with `type="center"`'
-feature_row:
+  - excerpt: 'It is not the strongest of the species that survives, not the most intelligent that survives. It is the one that is the most adaptable to change - _Charles Darwin_'
+feature_row1:
   - image_path: /assets/images/words.png
     alt: "placeholder image 1"
     title: "Evolutionary Biologist"
@@ -15,21 +15,30 @@ feature_row:
     url: "/research/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row2:
   - image_path: assets/images/rp.jpg
     alt: "placeholder image 2"
-    title: "I am a ichthyologist"
+    title: "Ichthyologist"
     excerpt: "I am studying :fish: because I love them"
-    url: "/research/"
+    url: "/fishes/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row3:
   - image_path: /assets/images/south.jpg
-    title: "I am a photographer"
+    title: "Photographer"
     excerpt: "I am a semi-professinal photographer"
     url: "/gallery/"
     btn_label: "See Gallery"
     btn_class: "btn--primary"
+    
 ---
+
+Who am I?
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row1" type="left" %}
+
+{% include feature_row id="feature_row2" type="right" %}
+
+{% include feature_row id="feature_row3" type="center" %}
