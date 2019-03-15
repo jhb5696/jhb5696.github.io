@@ -6,7 +6,5 @@ main:
     url: /research/  
   - title: "Gallery"
     url: /gallery/
-  - title: "Resume"
-    url: /resume/
   - title: "Fishes"
     url: /fishes/
