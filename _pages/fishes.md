@@ -2,26 +2,35 @@
 layout: splash
 permalink: /fishes/
 toc: true
-header:
-  image: /assets/images/rs.jpg
-  caption: "Photo credit: [**Hyung-Bae Jeon**](https://jhb5696.github.io)"
 ---
 
-# 무악상강
+__Checklist of Fresh and Brackish Water Fishes of Korea__
 
-## Petromyzontiformes
+######__Hyung-Bae Jeon, Jeongin Kim, Dae Min Kim__
 
-### Petromyzontida
+1. Introduction
+This webpage will provide both a relaible checklist of fresh & brackish water fishes from Korea and a photo archive of them. The photos is free to use unless non-commercially use. In this website you will find a most reliable list of freshwater fishes in Korea, and it will reduce a confusion from inconsistent literature. both the list and photos is carefully confirmed by professional ichthyologist who familliar with fishes from Korea.
+
+2. Donation
+If you’d like to give back please make a donation to the Asari (The Korean Freshwater Fish Specialist Group) which supports both research and acts for critically endangered fish in Korea.
+
+2. references
+
+* Fishes of the world
+
+* National Species Catalogue of Korea
+
+-----
+
+## 먹장어목
+
+### 칠성장어과
 
 * 칠성장어 _Lethenteron camtschaticum_ Tilesius, 1811 __endangered species__
 
 * 다묵장어 _Lethenteron reissneri_ Dybowski, 1869 __endangered species__
 
 * 칠성말배꼽 _Eudontomyzon morii_ Berg, 1931
-
-# 유악하문
-
-# 연질아강
 
 ## 철갑상어목 Acipenseriformes
 
@@ -34,8 +43,6 @@ header:
 * 용상어 _Acipenser mikadoi_ Hilgendorf, 1892
 
 * 아무르철갑상어 _Acipenser schrenckii_ Bradt, 1869
-
-# 신기아강
 
 ## 뱀장어목 Anguilliformes
 
@@ -674,3 +681,5 @@ header:
 * 황복 _Takifugu obscuru_ Abe, 1949
 
 * 자주복 _Takifugu rubripes_ Temminck & Schlegel, 1850
+
+-----
