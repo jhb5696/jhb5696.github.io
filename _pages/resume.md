@@ -1,5 +1,6 @@
 ---
 layout: cv
+permalink: /resume/
 title: H Jeon's CV
 ---
 # Hyung-Bae Jeon
