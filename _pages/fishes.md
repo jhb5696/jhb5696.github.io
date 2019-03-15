@@ -13,9 +13,9 @@ header:
 
 ### Petromyzontida
 
-* 칠성장어 _Lethenteron camtschaticum_ Tilesius, 1811
+* 칠성장어 _Lethenteron camtschaticum_ Tilesius, 1811 __endangered species__
 
-* 다묵장어 _Lethenteron reissneri_ Dybowski, 1869
+* 다묵장어 _Lethenteron reissneri_ Dybowski, 1869 __endangered species__
 
 * 칠성말배꼽 _Eudontomyzon morii_ Berg, 1931
 
@@ -85,7 +85,7 @@ header:
 
 * 줄납자루 _Acheilognathus yamatsutae_ Mori, 1928
 
-* 큰줄납자루 _Acheilognathus majusculus_ Kim & Yang, 1998
+* 큰줄납자루 _Acheilognathus majusculus_ Kim & Yang, 1998 __endangered species__
 
 * 납지리 _Acheilognathus rhombeus_ Temminck & Schlegel, 1846
 
@@ -95,25 +95,25 @@ header:
 
 * 납자루 _Tanakia lanceolata_ Temminck & Schlegel, 1846
 
-* 묵납자루 _Tanakia signifer_ Berg, 1907
+* 묵납자루 _Tanakia signifer_ Berg, 1907 __endangered species__
 
 * 칼납자루 _Tanakia koreensis_ Kim & Kim, 1990
 
-* 임실납자루 _Tanakia somjinensis_ Kim & Kim, 1991
+* 임실납자루 _Tanakia somjinensis_ Kim & Kim, 1991 __endangered species__
 
 * 낙동납자루 _Tanakia latimarginata_ Kim, Jeon & Suk, 2014
 
 * 납줄개 _Rhodeus sericeus_ Pallas, 1776
 
-* 흰줄납줄개 _Rhodeus ocellatus_ Kner, 1866
+* 한강납줄개 _Rhodeus pseudosericeus_ Arai, Jeon & Ueda, 2002 __endangered species__
 
-* 한강납줄개 _Rhodeus pseudosericeus_ Arai, Jeon & Ueda, 2002
+* 흰줄납줄개 _Rhodeus ocellatus_ Kner, 1866
 
 * 각시붕어 _Rhodeus sinensis_ Günther, 1868
 
 * 떡납줄갱이 _Rhodeus notatus_ Nichols, 1929
 
-* 서호납줄갱이 _Rhodeus(?) hondae_ Jordan & Metz, 1913
+* 서호납줄갱이 _Rhodeus(?) hondae_ Jordan & Metz, 1913 __extiction__
 
 ### 모래무지과
 
@@ -121,9 +121,9 @@ header:
 
 * 돌고기 _Pungtungia herzi_ Herzenstein, 1892 
 
-* 감돌고기 _Pseudopungtungia nigra_ Mori, 1935
+* 감돌고기 _Pseudopungtungia nigra_ Mori, 1935 __endangered species__
 
-* 가는돌고기 _Pseudopungtungia tenuicorpus_ Jeon & Choi, 1980 
+* 가는돌고기 _Pseudopungtungia tenuicorpus_ Jeon & Choi, 1980 __endangered species__
 
 * 쉬리 _Coreoleuciscus splendidus_ Mori, 1935
 
@@ -161,7 +161,7 @@ header:
 
 * 참마자 _Hemibarbus longirostris_ Regan, 1908
 
-* 어름치 _Hemibarbus mylodon_ Berg, 1907
+* 어름치 _Hemibarbus mylodon_ Berg, 1907 __endangered species__
 
 * 알락누치 _Hemibarbus maculatus_ Bleeker, 1871
 
@@ -173,21 +173,21 @@ header:
 
 * 왜매치 _Biwia springeri_ Banaresu & Nalbant, 1973
 
-* 꾸구리 _Gobiobotia macrocepahla_ Mori, 1935
+* 꾸구리 _Gobiobotia macrocepahla_ Mori, 1935 __endangered species__
 
-* 돌상어 _Gobiobotia brevibarba_ Mori, 1935
+* 돌상어 _Gobiobotia brevibarba_ Mori, 1935 __endangered species__
 
-* 흰수마자 _Gobiobotia naktongensis_ Mori, 1935
+* 흰수마자 _Gobiobotia naktongensis_ Mori, 1935 __endangered species__
 
 * 압록자그사니 _Mesogobio lachneri_ Banarescu & Nalbant, 1973
 
 * 두만강자그사니 _Mesogobio tumenensis_ Chang, 1980
 
-* 모래주사 _Microphysogobio koreensis_ Mori, 1935
+* 모래주사 _Microphysogobio koreensis_ Mori, 1935 __endangered species__
 
 * 돌마자 _Microphysogobio yaluensis_ Mori, 1928
 
-* 여울마자 _Microphysogobio rapidus_ Chae & Yang, 1999
+* 여울마자 _Microphysogobio rapidus_ Chae & Yang, 1999 __endangered species__
 
 * 됭경모치 _Microphysogobio jeoni_ Kim & Yang, 1999
 
@@ -205,7 +205,7 @@ header:
 
 * 대황어 _Tribolodon brandtii_ Dybowski, 1872
 
-* 연준모치 _Phoxinus phoxinus_ Linnaeus, 1758
+* 연준모치 _Phoxinus phoxinus_ Linnaeus, 1758 __endangered species__
 
 * 두만강연준모치 _Phoxinus tumensis_ Luo, 1996
 
@@ -221,7 +221,7 @@ header:
 
 * 덕유모치 _Rhynchocypris deogyuensis_ Lee & Sim, 2017
 
-* 버들가지 _Rhynchocypris semotilus_ Jordan &  Starks, 1905
+* 버들가지 _Rhynchocypris semotilus_ Jordan &  Starks, 1905 __endangered species__
 
 * 북방버들치 _Rhynchocypris czekanowskii_ Dybowski, 1869
 
@@ -241,420 +241,436 @@ header:
 
 * 눈불개 _Squaliobarbus curriculus_ Richardson, 1846
 
-* 강준치 Chanodichthys erythropterus Basilewsky, 1855
+* 강준치 _Chanodichthys erythropterus_ Basilewsky, 1855
 
-* 백조어 Culter alburnus Basilewsky, 1855
+* 백조어 _Culter alburnus_ Basilewsky, 1855
 
-* 치리 Hemiculter leucisculus Basilewsky, 1855
+* 치리 _Hemiculter leucisculus_ Basilewsky, 1855
 
-* 살치 Hemiculter bleekeri Warpachowski, 1888
+* 살치 _Hemiculter bleekeri_ Warpachowski, 1888
 
 ### 종개과 Nemacheilidae
 
-* 대륙종개 Barbatula nuda Bleeker,1864
+* 대륙종개 _Barbatula nuda_ Bleeker,1864
 
-* 종개 Barbatula toni Dybowski, 1869
+* 종개 _Barbatula toni_ Dybowski, 1869
 
-* 두만종개 Barbatula oligolepis Cao, 2009
+* 두만종개 _Barbatula oligolepis_ Cao, 2009
 
-* 쌀미꾸리 Lefua costata Kessler, 1876
+* 쌀미꾸리 _Lefua costata_ Kessler, 1876
 
 ### 미꾸리과 Cobitidae
 
-* 미꾸리 Misgurnus anguilicaudatus Cantor, 1842
+* 미꾸리 _Misgurnus anguilicaudatus_ Cantor, 1842
 
-* 미꾸라지 Misgurnus dabryanus Dabry de Thiersant, 1872
+* 미꾸라지 _Misgurnus dabryanus_ Dabry de Thiersant, 1872
 
-* 북방미꾸리 Misgurnus mohoity Dybowski, 1869 
+* 북방미꾸리 _Misgurnus mohoity_ Dybowski, 1869 
 
-* 강중개 Misgurnus buphoensis Kim & Park, 1995 
+* 강중개 _Misgurnus buphoensis_ Kim & Park, 1995 
 
-* 참종개 Cobitis koreensis Kim, 1975
+* 참종개 _Cobitis koreensis_ Kim, 1975
 
-* 아무르점줄종개 Cobitis lutheri Rendahl, 1935
+* 아무르점줄종개 _Cobitis lutheri_ Rendahl, 1935
 
-* 기름종개 Cobitis hankugensis Kim, Park, Son & Nalbant, 2003
+* 기름종개 _Cobitis hankugensis_ Kim, Park, Son & Nalbant, 2003
 
-* 점줄종개 Cobitis nalbantii Vasileva, Kim, Vasilev, Ko & Won, 2016
+* 점줄종개 _Cobitis nalbanti_ Vasileva, Kim, Vasilev, Ko & Won, 2016
 
-* 줄종개 Cobitis tetralineata  Kim, Park & Nalbant, 1999
+* 줄종개 _Cobitis tetralineata_  Kim, Park & Nalbant, 1999
 
-* 북방종개 Cobitis pacifica Kim, Park & Nalbant, 1999
+* 북방종개 _Cobitis pacifica_ Kim, Park & Nalbant, 1999
 
-* 왕종개 Cobitis longicorpus Kim, Choi & Nalbant, 1976
+* 왕종개 _Cobitis longicorpus_ Kim, Choi & Nalbant, 1976
 
-* 남방종개 Cobitis hugowolfeldi Nalbant, 1993
+* 미호종개 _Cobitis choii_ Kim & Son, 1984 __endangered species__
 
-* 동방종개 Cobitis yongdokensis Kim & Park, 1997
+* 남방종개 _Cobitis hugowolfeldi_ Nalbant, 1993
 
-* 수수미꾸리 Kichulchoia multifasciata Wakiya & Mori, 1929
+* 동방종개 _Cobitis yongdokensis_ Kim & Park, 1997
 
-* 좀수수치 Kichulchoia brevifasciata Kim & Lee , 1996
+* 수수미꾸리 _Kichulchoia multifasciata_ Wakiya & Mori, 1929
 
-* 새코미꾸리 Koreocobitis rotundicaudata Wakiya & Mori, 1929
+* 좀수수치 _Kichulchoia brevifasciata_ Kim & Lee , 1996 __endangered species__
 
-* 얼룩새코미꾸리 Koreocobitis naktongensis Kim, Park & Nalbant, 2000
+* 새코미꾸리 _Koreocobitis rotundicaudata_ Wakiya & Mori, 1929
 
-* Cobitis gracilis Chen & Chen, 2016
+* 얼룩새코미꾸리 _Koreocobitis naktongensis_ Kim, Park & Nalbant, 2000 __endangered species__
+
+* 가시종개 _Cobitis gracilis_ Chen & Chen, 2016
 
 ### 날종개과 Botidae
 
-* 날종개 Parabotia mantschuricus Berg, 1907
+* 날종개 _Parabotia mantschuricus_ Berg, 1907
 
 ## 메기목 Siluriformes
 
 ### 메기과 Siluridae
 
-* 메기 Silurus asotus Linnaeus, 1758
+* 메기 _Silurus asotus_ Linnaeus, 1758
 
-* 미유기 Silurus microdorsalis Mori, 1936
+* 미유기 _Silurus microdorsalis_ Mori, 1936
 
 ### 동자개과 Bagridae        
 
-* 동자개 Tachysurus sinensis Lacepede, 1803        
+* 동자개 _Tachysurus sinensis_ Lacepede, 1803        
 
-* 눈동자개 Tachysurus koreanus Kim & Lee, 1990
+* 눈동자개 _Tachysurus koreanus_ Kim & Lee, 1990
 
-* 꼬치동자개 Coreobagrus brevicorpus Mori, 1936
+* 꼬치동자개 _Coreobagrus brevicorpus_ Mori, 1936 __endangered species__
 
-* 대농갱이 Pseudobagrus ussuriensis Dybowski, 1872
+* 대농갱이 _Pseudobagrus ussuriensis_ Dybowski, 1872
 
-* 밀자개 Pelteobagrus nitidus Sauvage & Dabry de Thiersant, 1874
+* 밀자개 _Pelteobagrus nitidus_ Sauvage & Dabry de Thiersant, 1874
 
-* 종어 Leiocassis longirostris Günther, 1864
+* 종어 _Leiocassis longirostris_ Günther, 1864
 
 ### 퉁가리과 Amblycipitidae 
 
-* 퉁가리 Liobagrus andersoni Regan, 1908
+* 퉁가리 _Liobagrus andersoni_ Regan, 1908
 
-* 자가사리 Liobagrus mediadiposalis Mori, 1936       
+* 자가사리 _Liobagrus mediadiposalis_ Mori, 1936       
 
-* 퉁사리 Liobagrus obesus Son, Kim & Choo, 1987
+* 퉁사리 _Liobagrus obesus_ Son, Kim & Choo, 1987 __endangered species__
 
-* 섬진자가사리 Liobagrus somjinensis Kim & Park, 2010
+* 섬진자가사리 _Liobagrus somjinensis_ Kim & Park, 2010
 
-* 동방자가사리 Liobagrus hyeongsanensis Kim, Kim & Park, 2015
+* 동방자가사리 _Liobagrus hyeongsanensis_ Kim, Kim & Park, 2015
 
 ### 바다동자개과 Ariidae
 
-* 바다동자개 Arius maculatus Thunberg, 1792
+* 바다동자개 _Arius maculatus_ Thunberg, 1792
 
 ## 바다빙어목 Osmeriformes
 
 ### 바다빙어과 Osmeridae
 
-* 빙어 Hypomesus nipponensis McAllister, 1963
+* 빙어 _Hypomesus nipponensis_ McAllister, 1963
 
-* 날빙어 Hypomesus japonicus Brevoort, 1856
+* 날빙어 _Hypomesus japonicus_ Brevoort, 1856
 
-* 바다빙어 Osmerus dentex Steindachner & Kner, 1870
+* 바다빙어 _Osmerus dentex_ Steindachner & Kner, 1870
 
-* 은어 Plecoglossus altivelis Temminck & Schlegel, 1846
+* 은어 _Plecoglossus altivelis_ Temminck & Schlegel, 1846
 
-* 열빙어 Mallotus villosus Müller 1776
+* 열빙어 _Mallotus villosus_ Müller 1776
 
 ### 뱅어과 Salangidae 
 
-* 국수뱅어 Salanx ariakensis Kishinouye, 1902
+* 국수뱅어 _Salanx ariakensis_ Kishinouye, 1902
 
-* 벛꽃뱅어 Salanx prognathus Regan,  1908
+* 벛꽃뱅어 _Salanx prognathus_ Regan, 1908
 
-* 도화뱅어 Neosalanx andersoni Rendahl, 1923
+* 도화뱅어 _Neosalanx andersoni_ Rendahl, 1923
 
-* 젓뱅어 Neosalanx jordani Wakiya & Takahasi, 19 37
+* 젓뱅어 _Neosalanx jordani_ Wakiya & Takahasi, 19 37
 
-* 실뱅어 Neosalanx hubbsi Wakiya & Takahasi, 1937
+* 실뱅어 _Neosalanx hubbsi_ Wakiya & Takahasi, 1937
 
-* 붕퉁뱅어 Protosalanx chinensis Basilewsky, 1855
+* 붕퉁뱅어 _Protosalanx chinensis_ Basilewsky, 1855
 
-* 뱅어 Salangichthys microdon Bleeker, 1860  
+* 뱅어 _Salangichthys microdon_ Bleeker, 1860  
 
-* 한뱅어 Protosalanx hyalocranius Abbott, 1901
+* 한뱅어 _Protosalanx hyalocranius_ Abbott, 1901
 
-* 줄뱅어 Neosalanx brevirostris Pellegrin, 1923
+* 줄뱅어 _Neosalanx brevirostris_ Pellegrin, 1923
 
 ## 연어목 Salmoniformes
 
 ### 연어과 Salmonidae
 
-* 우레기 Coregon usussuriensis Berg, 1907
+* 우레기 _Coregonus ussuriensis_ Berg, 1907
 
-* 열목어 Brachymystax tsinlingensis Li , 1966
+* 열목어 _Brachymystax tsinlingensis_ Li , 1966 __endangered species__
 
-* 사루기 Thymallus yaluensis Mori, 19 28
+* 사루기 _Thymallus yaluensis_ Mori, 19 28
 
-* 연어 Oncorhynchus keta Walbaum, 1792
+* 연어 _Oncorhynchus keta_ Walbaum, 1792
 
-* 곱사연어 Oncorhynchus gorbuscha Walbaum, 1792
+* 곱사연어 _Oncorhynchus gorbuscha_ Walbaum, 1792
 
-* 송어 Oncorhynchus masou Brevoort, 1856
+* 송어 _Oncorhynchus masou_ Brevoort, 1856
 
-* 은연어 Onchorhynchus kisutch Walbaum, 1792
+* 은연어 _Onchorhynchus kisutch_ Walbaum, 1792
 
-* 자치 Hucho ishikawae Mori, 1928
+* 자치 _Hucho ishikawae_ Mori, 1928
 
-* 홍송어 Salvelinus leucomaenis Pallas, 1814
+* 홍송어 _Salvelinus leucomaenis_ Pallas, 1814
 
-* 곤들매기 Salvelinus curilus Pallas, 1814
+* 곤들매기 _Salvelinus curilus_ Pallas, 1814
 
 ## 대구목 Gardiformes
 
 ### 대구과 Gadidae
 
-* 빨간대구 Eleginus gracilis Tilesius, 1810
+* 빨간대구 _Eleginus gracilis_ Tilesius, 1810
 
 ### 모오케과 Lotidae 
 
-* 모오케 Lota lota Linnaeus, 1758
+* 모오케 _Lota lota_ Linnaeus, 1758
 
 ## 숭어목 Mugiliformes
 
-### 숭어과 Mug ilidae
+### 숭어과 Mugilidae
 
-* 숭어 Mugil cephalus Linnaeus, 1758
+* 숭어 _Mugil cephalus_ Linnaeus, 1758
 
-* 가숭어 Liza haematocheila Temminck & Schlegel, 1845
+* 가숭어 _Liza haematocheila_ Temminck & Schlegel, 1845
 
-* 등줄숭어 Liza lauvergnii Eydoux & Souleyet, 1850
+* 등줄숭어 _Liza lauvergnii_ Eydoux & Souleyet, 1850
 
-* 초승꼬리숭어 Moolgarda seheli Forsskål, 1775
+* 초승꼬리숭어 _Moolgarda seheli_ Forsskål, 1775
 
 ## 동갈치목 Beloniformes
 
 ### 송사리과 Adrianichthyoidae
 
-* 송사리 Oryzias latipes Temminck & Schlegel, 1846
+* 송사리 _Oryzias latipes_ Temminck & Schlegel, 1846
 
-* 대륙송사리 Oryzias sinensis Chen, Uwa & Chu, 1989
+* 대륙송사리 _Oryzias sinensis_ Chen, Uwa & Chu, 1989
 
 ### 학공치과 Hemiramphidae
 
-* 줄공치 Hyporhamphus intermedius Cantor, 1842
+* 줄공치 _Hyporhamphus intermedius_ Cantor, 1842
 
-* 학공치 Hyporhamp hussajori Temminck & Schlegel, 1846
+* 학공치 _Hyporhamp hussajori_ Temminck & Schlegel, 1846
 
-* 살공치 Hyporhamphus quoyi Valenciennes, 1847
+* 살공치 _Hyporhamphus quoyi_ Valenciennes, 1847
 
 ## 큰가시고기목 Gasterosteiformes
 
 ### 큰가시고기과 Gasterosteidae
 
-* 큰가시고기 Gasterosteus nipponicus Higuchi, Sakai & Goto, 2014
+* 큰가시고기 _Gasterosteus nipponicus_ Higuchi, Sakai & Goto, 2014
 
-* 가시고기 Pungitius sinensis Guichenot, 1869
+* 가시고기 _Pungitius sinensis_ Guichenot, 1869 __endangered species__
 
-* 두만가시고기 Pungitius tymensis Nikolskii,1889
+* 두만가시고기 _Pungitius tymensis_ Nikolskii,1889
 
-* 청가시고기 Pungitius pungitius Linnaeus, 1758
+* 청가시고기 _Pungitius pungitius_ Linnaeus, 1758
 
-* 잔가시고기 Pungitius kaibarae Tanaka, 1915
+* 잔가시고기 _Pungitius kaibarae_ Tanaka, 1915
 
 ### 실고기과 Syngnathidae
 
-* 실고기 Syngnathus schlegeli Kaup, 1853
+* 실고기 _Syngnathus schlegeli_ Kaup, 1853
 
 ## 드렁허리목 Synbranchiformes
 
 ### 드렁허리과 Synbranchidae
 
-* 드렁허리 Monopterus albus Zuiew,1793
+* 드렁허리 _Monopterus albus_ Zuiew,1793
 
 ## 쏨뱅이목 Scorpaeniformes
 
 ### 양태과 Platycephalidae
 
-* 양태 Platycephalus indicus Linnaeus, 1758
+* 양태 _Platycephalus indicus_ Linnaeus, 1758
 
 ### 둑중개과 Cottidae 
 
-* 둑중개 Cottus koreanus Fuji, Yabe & Choi, 2005
+* 둑중개 _Cottus koreanus_ Fuji, Yabe & Choi, 2005
 
-* 한둑중개  Cottus hangiongensis Mori, 1930
+* 한둑중개 _Cottus hangiongensis_ Mori, 1930 __endangered species__
 
-* 참둑중개 Cottus czerskii Berg, 1913
+* 참둑중개 _Cottus czerskii_ Berg, 1913
 
-* 개구리꺽정이 Myxocepha lusstelleri Tilesius, 1811
+* 개구리꺽정이 _Myxocepha lusstelleri_ Tilesius, 1811
 
-* 꺽정이 Trachidermus fasciatus Heckel, 1837
+* 꺽정이 _Trachidermus fasciatus_ Heckel, 1837
 
-* 아무르꺽정이 Mesocottus haitej Dybowski, 1869
+* 아무르꺽정이 _Mesocottus haitej_ Dybowski, 1869
 
 ## 농어목 Perciformes
 
 ### 농어과  Lateolabracidae
 
-* 농어 Lateolabrax japonicus Cuvier, 1828
+* 농어 _Lateolabrax japonicus_ Cuvier, 1828
+
+### 검정우럭과 
+
+* 배스 _Micropterus salmoides_ 
 
 ### 꺽지과 Percichthyidae
 
-* 꺽지 Coreoperca herzi Herzenstein, 1896
+* 꺽지 _Coreoperca herzi_ Herzenstein, 1896
 
-* 꺽저기 Coreoperca kawamebari Temminck & Schlegel, 1843
+* 꺽저기 _Coreoperca kawamebari_ Temminck & Schlegel, 1843
 
-* 쏘가리 Siniperca scherzeri Steindachner, 1892
+* 쏘가리 _Siniperca scherzeri_ Steindachner, 1892
 
 ### 주둥치과 Leiognathidae
 
-* 주둥치 Nuchequula nuchalis Temminck & Schlegel, 1845
+* 주둥치 _Nuchequula nuchalis_ Temminck & Schlegel, 1845
 
 ### 돛양태과 Callionymidae
 
-* 강주걱양태 Repomucenus olidus Günther, 1873
+* 강주걱양태 _Repomucenus olidus_ Günther, 1873
+
+## 망둑어목 Gobiiformes
 
 ### 구굴무치과 Eleotridae
 
-* 구굴무치 Eleotris oxycephala Temminck & Schlegel,  1845
+* 구굴무치 _Eleotris oxycephala_ Temminck & Schlegel,  1845
 
-* 검은구굴무치 Eleotris acanthopoma Bleeker, 1853
+* 검은구굴무치 _Eleotris acanthopoma_ Bleeker, 1853
 
 ### 동사리과 Odontobutidae
 
-* 동사리 Odontobutis platycephala Iwata & Jeon, 1985
+* 동사리 _Odontobutis platycephala_ Iwata & Jeon, 1985
 
-* 얼룩동사리 Odontobutis interrupta Iwata & Jeon, 1985
+* 얼룩동사리 _Odontobutis interrupta_ Iwata & Jeon, 1985
 
-* 남방동사리 Odontobutis obscura Temminck & Schlegel, 1845
+* 남방동사리 _Odontobutis obscura_ Temminck & Schlegel, 1845
 
-* 껄동사리 Odontobutis yaluensis Yu, Yu & Xie, 1993
+* 껄동사리 _Odontobutis yaluensis_ Yu, Yu & Xie, 1993
 
-* 좀구굴치 Micropercops swinhonis Günther, 1873
+* 좀구굴치 _Micropercops swinhonis_ Günther, 1873
 
-* 발기 Perccottus glenii Dybowski, 1877
+* 발기 _Perccottus glenii_ Dybowski, 1877
 
 ### 망둥이과 Gobionellidae (Oxudercidae)
 
-* 날망둑 Gymnogobius breunigii Steindachner, 1879
+* 날망둑 _Gymnogobius breunigii_ Steindachner, 1879
 
-* 동해날망둑 Gymnogobius taranetzi Pinchuk, 1978
+* 동해날망둑 _Gymnogobius taranetzi_ Pinchuk, 1978
 
-* 왜꾹저구 Gymnogobius macrognathos Bleeker, 1860
+* 왜꾹저구 _Gymnogobius macrognathos_ Bleeker, 1860
 
-* 꾹저구 Gymnogobius urotaenia Hilgendorf, 1879
+* 꾹저구 _Gymnogobius urotaenia_ Hilgendorf, 1879
 
-* 검정꾹저구 Gymnogobius petschiliensis Rendahl, 1924
+* 검정꾹저구 _Gymnogobius petschiliensis_ Rendahl, 1924
 
-* 무늬꾹저구 Gymnogobius opperiens Stevenson, 2002
+* 무늬꾹저구 _Gymnogobius opperiens_ Stevenson, 2002
 
-* 가는살망둑 Gymnogobius cylindricus Tomiyama, 1936
+* 가는살망둑 _Gymnogobius cylindricus_ Tomiyama, 1936
 
-* 문절망둑 Acanthogobius flavimanus Temminck & Schlegel, 1845
+* 문절망둑 _Acanthogobius flavimanus_ Temminck & Schlegel, 1845
 
-* 풀망둑 Acanthogobius hasta Temminck & Schlegel, 1845
+* 풀망둑 _Acanthogobius hasta_ Temminck & Schlegel, 1845
 
-* 흰발망둑 Acanthogobius lactipes Hilgendorf, 1879
+* 흰발망둑 _Acanthogobius lactipes_ Hilgendorf, 1879
 
-* 왜풀망둑 Acanthogobius elongatus Fang, 1942
+* 왜풀망둑 _Acanthogobius elongatus_ Fang, 1942
 
-* 비늘흰발망둑 Acanthogobius luridus Ni & Wu, 1985
+* 비늘흰발망둑 _Acanthogobius luridus_ Ni & Wu, 1985
 
-* 열동갈문절 Sicyopterus japonicus Tanaka, 1909
+* 열동갈문절 _Sicyopterus japonicus_ Tanaka, 1909
 
-* 애기망둑 Pseudogobius masago Tomiyama, 1936
+* 애기망둑 _Pseudogobius masago_ Tomiyama, 1936
 
-* 무늬망둑 Bathygobius fuscus Ruppell, 1830
+* 무늬망둑 _Bathygobius fuscus_ Ruppell, 1830
 
-* 갈문밍둑 Rhinogobius similis Gill, 1859
+* 갈문밍둑 _Rhinogobius similis_ Gill, 1859
 
-* 밀어 Rhinogobius bedfordi Regan, 1908
+* 밀어 _Rhinogobius bedfordi_ Regan, 1908
 
-* 무늬밀어 Rhinogobius nagoyae Jordan & Seale, 1906
+* 무늬밀어 _Rhinogobius nagoyae_ Jordan & Seale, 1906
 
-* 파랑밀어 Rhinogobius mizunoi Suzuki, Shibukawa & Aizawa, 2017
+* 파랑밀어 _Rhinogobius mizunoi_ Suzuki, Shibukawa & Aizawa, 2017
 
-* 두줄망둑 Tridentiger trigonocephalus Gill, 1859
+* 두줄망둑 _Tridentiger trigonocephalus_ Gill, 1859
 
-* 검정망둑 Tridentiger obscurus Temminck & Schlegel, 1845
+* 검정망둑 _Tridentiger obscurus_ Temminck & Schlegel, 1845
 
-* 민물두줄망둑 Tridentiger bifasciatus Steindachner, 1881
+* 민물두줄망둑 _Tridentiger bifasciatus_ Steindachner, 1881
 
-* 민물검정망둑 Tridentiger brevispinis  Katsuyama, Arai & Nakamura, 1972
+* 민물검정망둑 _Tridentiger brevispinis_ Katsuyama, Arai & Nakamura, 1972
 
-* 황줄망둑 Tridentiger nudicervicus Tomiyama, 1934
+* 황줄망둑 _Tridentiger nudicervicus_ Tomiyama, 1934
 
-* 아작망둑 Tridentiger barbatus Günther, 1861
+* 아작망둑 _Tridentiger barbatus_ Günther, 1861
 
-* 날개망둑 Favonigobius gymnauchen Bleeker, 1860
+* 날개망둑 _Favonigobius gymnauchen_ Bleeker, 1860
 
-* 모치망둑 Mugilogobius abei Jordan & Snyder, 1901
+* 모치망둑 _Mugilogobius abei_ Jordan & Snyder, 1901
 
-* 제주모치망둑 Mugilogobius notospilus Günther, 1877
+* 제주모치망둑 _Mugilogobius notospilus_ Günther, 1877
 
-* 줄망둑 Acentrogobius pflaumii Bleeker, 1853
+* 줄망둑 _Acentrogobius pflaumii_ Bleeker, 1853
 
-* 점줄망둑 Acentrogobius pellidebilis Lee & Kim, 1992
+* 점줄망둑 _Acentrogobius pellidebilis_ Lee & Kim, 1992
 
-* 꼬마청황 Parioglossus dotui Tomiyama, 1958
+* 꼬마청황 _Parioglossus dotui_ Tomiyama, 1958
 
-* 짱뚱어 Boleophthalmus pectinirostris Linnaeus, 1758
+* 짱뚱어 _Boleophthalmus pectinirostris_ Linnaeus, 1758
 
-* 말뚝망둥어 Periophthalmus modestus Cantor, 1842
+* 말뚝망둥어 _Periophthalmus modestus_ Cantor, 1842
 
-* 큰볏말뚝망둥어 Periophthalmus magnuspinnatus Lee, Choi & Ryu, 1995
+* 큰볏말뚝망둥어 _Periophthalmus magnuspinnatus_ Lee, Choi & Ryu, 1995
 
-* 오셀망둑 Lophiogobius ocellicauda Günther, 1873
+* 오셀망둑 _Lophiogobius ocellicauda_ Günther, 1873
 
-* 미끈망둑 Luciogobius guttatus Gill, 1859
-
-* 꼬마망둑 Luciogobius koma Snyder, 1909
-
-* 댕기망둑 Eutaeniichthys gilli Jordan & Snyder, 1901
-
-* 남방짱뚱어 Scartelaos gigas Chu & Wu, 1963
-
-* 혀망둑 Glossogobius olivaceus Temminck & Schlegel, 1845
-
-* 사백어 Leucopsarion petersi Hilgendorf, 1880
+* 미끈망둑 _Luciogobius guttatus_ Gill, 1859
 
 * 큰미끈망둑 Luciogobius grandis Arai, 1970
 
-* 빨갱이 Ctenotrypauchen microcephalus Bleeker, 1860
+* 납작미끈망둑
 
-* 개소겡 Odontamblyopus lacepedii Temminck & Schlegel, 1845
+* 왜망둑
 
-* 꽃개소겡 Taenioides cirratus Blyth, 1860
+* 가는미끈망둑
+
+* 왜미끈망둑
+
+* 꼬마망둑 _Luciogobius koma_ Snyder, 1909
+
+* 댕기망둑 _Eutaeniichthys gilli_ Jordan & Snyder, 1901
+
+* 남방짱뚱어 _Scartelaos gigas_ Chu & Wu, 1963
+
+* 넙적망둑 _Glossogobius olivaceus_ Temminck & Schlegel, 1845
+
+* 사백어 _Leucopsarion petersi_ Hilgendorf, 1880
+
+* 빨갱이 _Ctenotrypauchen microcephalus_ Bleeker, 1860
+
+* 개소겡 _Odontamblyopus lacepedii_ Temminck & Schlegel, 1845
+
+* 꽃개소겡 _Taenioides cirratus_ Blyth, 1860
 
 ### 버들붕어과 Osphronemidae
 
-* 버들붕어 Macropodus ocellatus Cantor, 1842
+* 버들붕어 _Macropodus ocellatus_ Cantor, 1842
 
 ### 가물치과 Channidae
 
-* 가물치 Channa argus Cantor, 1842
+* 가물치 _Channa argus_ Cantor, 1842
 
 ### 하스돔과 Haemulidae
 
-* 하스돔 Pomadasys argenteus Forsskål, 1775
+* 하스돔 _Pomadasys argenteus_ Forsskål, 1775
 
 ## 가자미목 Pleuronectiformes
 
 ### 가자미과 Pleuronectidae
 
-* 돌가자미 Kareius bicoloratus Basilewsky, 1855
+* 돌가자미 _Kareius bicoloratus_ Basilewsky, 1855
 
-* 강도다리 Platichthys stellatus Pallas, 1787
+* 강도다리 _Platichthys stellatus_ Pallas, 1787
 
-* 도다리 Pleuronichthys cornutus Temminck & Schlegel, 1846
+* 도다리 _Pleuronichthys cornutus_ Temminck & Schlegel, 1846
 
-* 호수가자미 Liopsetta pinnifasciata Kner, 1870
+* 호수가자미 _Liopsetta pinnifasciata_ Kner, 1870
 
 ### 참서대과 Cynoglossidae
 
-* 박대 Cynoglossus semilaevis Günther, 1873
+* 박대 _Cynoglossus semilaevis_ Günther, 1873
 
 ## 복어목 Tetraodontiformes
 
 ### 참복과 Tetraodontidae
 
-* 까치복 Takifugu xanthopterus Temminck & Schlegel, 1850.
+* 까치복 _Takifugu xanthopterus_ Temminck & Schlegel, 1850.
 
-* 매리복 Takifugu vermicularis Temminck & Schlegel, 18 50
+* 매리복 _Takifugu vermicularis_ Temminck & Schlegel, 18 50
 
-* 흰점복 Takifugu flavipterus Matsuura, 2017
+* 흰점복 _Takifugu flavipterus_ Matsuura, 2017
 
-* 황해흰점복 Takifugu alboplumbeus Richardson, 1845
+* 황해흰점복 _Takifugu alboplumbeus_ Richardson, 1845
 
-* 두점박이복 Takifugu bimaculatus Richardson, 1845
+* 두점박이복 _Takifugu bimaculatus_ Richardson, 1845
 
-* 황복 Takifugu obscuru Abe, 1949
+* 황복 _Takifugu obscuru_ Abe, 1949
 
-* 자주복 Takifugu rubripes Temminck & Schlegel, 1850
+* 자주복 _Takifugu rubripes_ Temminck & Schlegel, 1850
