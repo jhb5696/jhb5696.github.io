@@ -9,23 +9,23 @@ header:
 feature_row1:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     title: "Population genetics"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: 'Phylogenetics Phylogeography Ecoimmunology Molecular Evolution MHC Mitochondrial Genome Genomics Bitterling Acheilognathidae Population Individual Genetics Comparative Transcriptomics Speciation Biogeography Rhodeus Acheilognathus Tanakia DNA Barcoding Squalidus marker DEG RNA seq DAB Diversity Organelle Balancing Selection Orthologs Phylogenomics ARTs Conservation Genetics Candidate Genes NGS Recombination Duplication Dispersal Vicariance Bioinformatics Ecology Genetic Diversity Freshwater Fish Teleosts Alleles Bottleneck Founder Effect Genetic Drift Natural Selection Hybridization Interspecific Genetic Structure Genetic Admixture Secondary Contact Haplotype Microsatellites Heteroplasmy Pattern Purifying Selection Parasite mediated Selection'
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     title: "phylogeography"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    excerpt: 'Phylogenetics Phylogeography Ecoimmunology Molecular Evolution MHC Mitochondrial Genome Genomics Bitterling Acheilognathidae Population Individual Genetics Comparative Transcriptomics Speciation Biogeography Rhodeus Acheilognathus Tanakia DNA Barcoding Squalidus marker DEG RNA seq DAB Diversity Organelle Balancing Selection Orthologs Phylogenomics ARTs Conservation Genetics Candidate Genes NGS Recombination Duplication Dispersal Vicariance Bioinformatics Ecology Genetic Diversity Freshwater Fish Teleosts Alleles Bottleneck Founder Effect Genetic Drift Natural Selection Hybridization Interspecific Genetic Structure Genetic Admixture Secondary Contact Haplotype Microsatellites Heteroplasmy Pattern Purifying Selection Parasite mediated Selection'
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     title: "Pattern of the molecular evolution"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: 'Phylogenetics Phylogeography Ecoimmunology Molecular Evolution MHC Mitochondrial Genome Genomics Bitterling Acheilognathidae Population Individual Genetics Comparative Transcriptomics Speciation Biogeography Rhodeus Acheilognathus Tanakia DNA Barcoding Squalidus marker DEG RNA seq DAB Diversity Organelle Balancing Selection Orthologs Phylogenomics ARTs Conservation Genetics Candidate Genes NGS Recombination Duplication Dispersal Vicariance Bioinformatics Ecology Genetic Diversity Freshwater Fish Teleosts Alleles Bottleneck Founder Effect Genetic Drift Natural Selection Hybridization Interspecific Genetic Structure Genetic Admixture Secondary Contact Haplotype Microsatellites Heteroplasmy Pattern Purifying Selection Parasite mediated Selection'
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     title: "DNA barcoding and eDNA"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: 'Phylogenetics Phylogeography Ecoimmunology Molecular Evolution MHC Mitochondrial Genome Genomics Bitterling Acheilognathidae Population Individual Genetics Comparative Transcriptomics Speciation Biogeography Rhodeus Acheilognathus Tanakia DNA Barcoding Squalidus marker DEG RNA seq DAB Diversity Organelle Balancing Selection Orthologs Phylogenomics ARTs Conservation Genetics Candidate Genes NGS Recombination Duplication Dispersal Vicariance Bioinformatics Ecology Genetic Diversity Freshwater Fish Teleosts Alleles Bottleneck Founder Effect Genetic Drift Natural Selection Hybridization Interspecific Genetic Structure Genetic Admixture Secondary Contact Haplotype Microsatellites Heteroplasmy Pattern Purifying Selection Parasite mediated Selection'
 feature_row5:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     title: "Development genetic marker"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: 'Phylogenetics Phylogeography Ecoimmunology Molecular Evolution MHC Mitochondrial Genome Genomics Bitterling Acheilognathidae Population Individual Genetics Comparative Transcriptomics Speciation Biogeography Rhodeus Acheilognathus Tanakia DNA Barcoding Squalidus marker DEG RNA seq DAB Diversity Organelle Balancing Selection Orthologs Phylogenomics ARTs Conservation Genetics Candidate Genes NGS Recombination Duplication Dispersal Vicariance Bioinformatics Ecology Genetic Diversity Freshwater Fish Teleosts Alleles Bottleneck Founder Effect Genetic Drift Natural Selection Hybridization Interspecific Genetic Structure Genetic Admixture Secondary Contact Haplotype Microsatellites Heteroplasmy Pattern Purifying Selection Parasite mediated Selection'
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
