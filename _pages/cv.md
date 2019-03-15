@@ -1,7 +1,7 @@
 ---
 layout: splash
 classes: wide
-permalink: /whoami/
+permalink: /cv/
 ---
 
 # Hyung-Bae Jeon
