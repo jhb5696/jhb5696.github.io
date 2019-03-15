@@ -1,4 +1,5 @@
 ---
+title: "Curriculum Vitae"
 layout: splash
 classes: wide
 permalink: /cv/

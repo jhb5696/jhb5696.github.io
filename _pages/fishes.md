@@ -1,4 +1,5 @@
 ---
+title: "Fishes"
 layout: splash
 permalink: /fishes/
 toc: true
