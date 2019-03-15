@@ -2,6 +2,10 @@
 layout: splash
 classes: wide
 permalink: /cv/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+excerpt: "[Download Hyung-Bae Jeon's Curriculum Vitae.pdf](http://www.dylanfraser.com)"
 ---
 
 # Hyung-Bae Jeon
