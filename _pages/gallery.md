@@ -41,4 +41,4 @@ gallery:
     title: "Periophthalmus modestus"
 ---
 # Photo Gallery
-{% include gallery caption="Freshwater fishes of Korea" %}
+{% include gallery caption="__Freshwater fishes of Korea__" %}
