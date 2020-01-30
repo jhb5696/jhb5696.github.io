@@ -26,10 +26,10 @@ Thesis: *Phylogeographical Issues of Teleosts in Korea: Adpative Radiation and P
 Advisor: Prof. Ho Young Suk  
 * **BSc** Marine Biology *Kunsan National University* 2008
 
-## Publications 
-[Google Scholar](https://scholar.google.co.kr/citations?user=6YI10DsAAAAJ&hl=ko)
-[Researchgate](https://www.researchgate.net/profile/Hyung_Bae_Jeon)
+## Publications
+* [Google Scholar](https://scholar.google.co.kr/citations?user=6YI10DsAAAAJ&hl=ko)
+* [Researchgate](https://www.researchgate.net/profile/Hyung_Bae_Jeon)
 
 ## Writing
-[An Introduction to Molecular Ecology (In Korean)](https://www.ibric.org/myboard/list.php?Board=news&PARA3=49)
-[Conservation status of dwarf loach, _Kichulchoia brevifasciata_ (In Korean)](http://ecotopia.hani.co.kr/204783)]
+* [An Introduction to Molecular Ecology (In Korean)](https://www.ibric.org/myboard/list.php?Board=news&PARA3=49)
+* [Conservation status of dwarf loach, _Kichulchoia brevifasciata_ (In Korean)](http://ecotopia.hani.co.kr/204783)]
