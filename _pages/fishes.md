@@ -3,15 +3,17 @@ title: "Fishes"
 layout: splash
 permalink: /fishes/
 toc: true
+toc_label: "Taxon"
+toc_icon: "cog"
 ---
 
-# Checklist of Fresh and Brackish Water Fishes of Korea
+# Checklist of Fishes from Korean drainage systems
 
 __Hyung-Bae Jeon, Jeongin Kim, Dae Min Kim__
 
 1. Introduction
 
-This webpage will provide both a relaible checklist of fresh & brackish water fishes from Korea and a photo archive of them. The photos is free to use unless non-commercially use. In this website you will find a most reliable list of freshwater fishes in Korea, and it will reduce a confusion from inconsistent literature. both the list and photos is carefully confirmed by professional ichthyologist who familliar with fishes from Korea.
+This webpage will provide both a reliable checklist of fishes from Korean drainage systems and a photo archive of them. The photos is free to use unless non-commercially use. In this website you will find a most reliable list of freshwater fishes in Korea, and it will reduce a confusion from inconsistent literature. both the list and photos is carefully confirmed by professional ichthyologist who familliar with fishes from Korea.
 
 2. Donation
 
@@ -63,7 +65,7 @@ If you’d like to give back please make a donation to the Asari (The Korean Fre
 
 ## 청어목 Clupeiformes
 
-### 멸치과 Engraulidae 
+### 멸치과 Engraulidae
 
 * 웅어 _Coilia nasus_ Temminck & Schlegel, 1846
 
@@ -129,7 +131,7 @@ If you’d like to give back please make a donation to the Asari (The Korean Fre
 
 * 참붕어 _Pseudorasbora parva_ Temminck & Schlegel, 1846
 
-* 돌고기 _Pungtungia herzi_ Herzenstein, 1892 
+* 돌고기 _Pungtungia herzi_ Herzenstein, 1892
 
 * 감돌고기 _Pseudopungtungia nigra_ Mori, 1935 __endangered species__
 
@@ -147,7 +149,7 @@ If you’d like to give back please make a donation to the Asari (The Korean Fre
 
 * 북방중고기 _Sarcocheilichthys czerskii_ Berg, 1914
 
-* 술중고기 _Sarcocheilichthys soldatovi_ Berg, 1914 
+* 술중고기 _Sarcocheilichthys soldatovi_ Berg, 1914
 
 * 알중고기 _Sarcocheilichthys lacustris_ Dybowski, 1872
 
@@ -179,7 +181,7 @@ If you’d like to give back please make a donation to the Asari (The Korean Fre
 
 * 긴모래무지 _Pseudogobio longirostris_ Mori, 1934
 
-* 버들매치 _Abbottina rivularis_ Basilewsky, 1855 
+* 버들매치 _Abbottina rivularis_ Basilewsky, 1855
 
 * 왜매치 _Biwia springeri_ Banaresu & Nalbant, 1973
 
@@ -275,9 +277,9 @@ If you’d like to give back please make a donation to the Asari (The Korean Fre
 
 * 미꾸라지 _Misgurnus dabryanus_ Dabry de Thiersant, 1872
 
-* 북방미꾸리 _Misgurnus mohoity_ Dybowski, 1869 
+* 북방미꾸리 _Misgurnus mohoity_ Dybowski, 1869
 
-* 강중개 _Misgurnus buphoensis_ Kim & Park, 1995 
+* 강중개 _Misgurnus buphoensis_ Kim & Park, 1995
 
 * 참종개 _Cobitis koreensis_ Kim, 1975
 
@@ -335,7 +337,7 @@ If you’d like to give back please make a donation to the Asari (The Korean Fre
 
 * 종어 _Leiocassis longirostris_ Günther, 1864
 
-### 퉁가리과 Amblycipitidae 
+### 퉁가리과 Amblycipitidae
 
 * 퉁가리 _Liobagrus andersoni_ Regan, 1908
 
@@ -365,7 +367,7 @@ If you’d like to give back please make a donation to the Asari (The Korean Fre
 
 * 열빙어 _Mallotus villosus_ Müller 1776
 
-### 뱅어과 Salangidae 
+### 뱅어과 Salangidae
 
 * 국수뱅어 _Salanx ariakensis_ Kishinouye, 1902
 
@@ -415,7 +417,7 @@ If you’d like to give back please make a donation to the Asari (The Korean Fre
 
 * 빨간대구 _Eleginus gracilis_ Tilesius, 1810
 
-### 모오케과 Lotidae 
+### 모오케과 Lotidae
 
 * 모오케 _Lota lota_ Linnaeus, 1758
 
@@ -477,7 +479,7 @@ If you’d like to give back please make a donation to the Asari (The Korean Fre
 
 * 양태 _Platycephalus indicus_ Linnaeus, 1758
 
-### 둑중개과 Cottidae 
+### 둑중개과 Cottidae
 
 * 둑중개 _Cottus koreanus_ Fuji, Yabe & Choi, 2005
 
@@ -497,9 +499,9 @@ If you’d like to give back please make a donation to the Asari (The Korean Fre
 
 * 농어 _Lateolabrax japonicus_ Cuvier, 1828
 
-### 검정우럭과 
+### 검정우럭과
 
-* 배스 _Micropterus salmoides_ 
+* 배스 _Micropterus salmoides_
 
 ### 꺽지과 Percichthyidae
 
