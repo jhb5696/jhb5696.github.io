@@ -7,9 +7,7 @@ author_profile: true
 author: Hyung-Bae Jeon
 ---
 
-#Hyung-Bae Jeon, Ph.D.
-
-## Current Position
+# Hyung-Bae Jeon, Ph.D.
 **Postdoctoral Fellow** *Concordia University, Montréal Canada*
 
 ## Research Interests

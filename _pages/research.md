@@ -2,10 +2,6 @@
 layout: splash
 permalink: /research/
 title: "Research"
-header:
-  overlay_color: "#333"
-  cta_label: "Google Scholar"
-  cta_url: "https://goo.gl/eUL9pF"
 feature_row1:
   - image_path: /assets/images/pca.png
     title: "Population genetics"
