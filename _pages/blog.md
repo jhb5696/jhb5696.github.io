@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 permalink: /blog/
-layout: tags
+layout: posts
 author_profile: true
 author: Hyung-Bae Jeon
 ---
