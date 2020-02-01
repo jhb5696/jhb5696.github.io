@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hyung-Bae Jeon"
+title                    : "Jeon - Molecular Ecology"
 title_separator          : "-"
 name                     : "Hyung-Bae Jeon"
 description              : "everything is evolving"
@@ -34,7 +34,7 @@ comments:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                : 
+    appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
@@ -79,7 +79,7 @@ naver_site_verification  :
 twitter:
   username               : "Hyungbae_Jeon"
 facebook:
-  username               : "rhodeus"
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -111,7 +111,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "rhodeus"
+  facebook         :
   foursquare       :
   github           : "jhb5696"
   gitlab           :
