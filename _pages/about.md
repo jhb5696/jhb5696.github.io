@@ -1,11 +1,9 @@
 ---
-title: "Who am I"
-layout: splash
+title: "About"
+layout: single
 classes: wide
-permalink: /cv/
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+permalink: /about/
+author_profile: true
 ---
 
 # Hyung-Bae Jeon

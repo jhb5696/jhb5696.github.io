@@ -1,10 +1,14 @@
 # main links
 main:
-  - title: "CV"
-    url: /cv/
+  - title: "About"
+    url: /about/
   - title: "Research"
-    url: /research/  
-  - title: "Gallery"
+    url: /research/
+  - title: "Photos"
     url: /gallery/
-  - title: "Fishes"
+  - title: "Blog"
+    url: /blog/
+  - title: "Protocol"
+    url: /protocol/
+  - title: "CFFK"
     url: /fishes/
