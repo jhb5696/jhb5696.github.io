@@ -9,6 +9,7 @@ author: Hyung-Bae Jeon
 
 # Hyung-Bae Jeon, Ph.D.
 **Postdoc** *Concordia University, Montréal Canada*
+Project title [link](https://www.concordia.ca/sgs/postdoctoral-fellows/funding/horizon/descriptions/4000.html)
 
 ## Research Interests
 I have been studying to reconstruct the evolutionary history of freshwater fishes based on population genetics and phylogenetics tools using microsatellites, MHC and mtDNA. Now, I am interested in the genomic consequences of harvesting in fish (also known as ‘fisheries-induced evolution’), and I am working on introduced Brook trout to understand how populations evolve during harvesting. This study will contribute to establishing conservation strategies for endangered species as well as sustainable fisheries management
