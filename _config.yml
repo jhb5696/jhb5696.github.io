@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jeon - Molecular Ecology"
+title                    : "H. Jeon - FISHNOMICS"
 title_separator          : "-"
 name                     : "Hyung-Bae Jeon"
-description              : "everything is evolving"
+description              : "Molecular Ecologist"
 url                      : "http://jhb5696.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jhb5696@jhb5696.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,8 +102,8 @@ analytics:
 author:
   name             : "Hyung-Bae Jeon"
   avatar           : "/assets/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Evolutionay Ecologist / Dreamer / Photographer / Skeptic"
-  location         : "Montréal, Canada"
+  bio              : "Molecular Ecologist / Photographer"
+  location         : "Republic of Korea"
   email            : "jhb5696@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -117,7 +117,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "jhb5696"
+  instagram        : "bitterling_fishes"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
