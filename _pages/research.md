@@ -5,7 +5,7 @@ title: "Research"
 feature_row1:
   - image_path: /assets/images/pca.png
     title: "Conservation Genomics"
-    excerpt: '야생생물 그 중 어류를 중심으로 (1) 유전적 구조의 판별을 통한 보전단위 설정 (2)  유전적 구제(genetic rescue)에 대한 보전유전학적 평가 기법 개발 (3) 멸종위기종의 유전적 평가기준 및 모니터링 기법 개발을 위한 연구를 진행중입니다.'
+    excerpt: '기후위기로 인한 생물다양성 감소를 최소화하기 위한 보전유전체학 연구를 진행중입니다. 야생생물 그 중 어류를 중심으로 (1) 유전체 데이터를 활용한 집단 구조(population structure)의 판별과 이를 통한 보전단위 설정 (2) 집단의 적응도(fitness)에 관련된 유전적 잠재력(adaptive potential)에 기여할 수 있는 전략으로서의 유전적 구제(genetic rescue) 방법을 개발하고 이에 대한 사후 평가 모델 개발 (3) 멸종위기종의 보전 등급과 시급성에 대한 집단유전학적 평가 기준 개발 및 모니터링 기법 개발을 위한 연구를 진행중입니다.'
 feature_row2:
   - image_path: /assets/images/pca.png
     title: "Phylogeography"
