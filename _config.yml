@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "H. Jeon - FISHNOMICS"
+title                    : "FISHNOMICS"
 title_separator          : "-"
 name                     : "Hyung-Bae Jeon"
 description              : "Molecular Ecologist"
@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyung-Bae Jeon"
-  avatar           : "/assets/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/me2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Molecular Ecologist / Photographer"
   location         : "Republic of Korea"
   email            : "jhb5696@gmail.com"
